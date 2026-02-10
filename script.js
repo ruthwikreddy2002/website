@@ -63,7 +63,7 @@ document.addEventListener('visibilitychange',
 
 
 var typed = new Typed(".typing-text", {
-    strings: ["Aspiring Software Engineer",""],
+    strings: ["Software Engineer","Backend Developer", ""],
     loop: true,
     typeSpeed: 80,
     backSpeed: 60,
@@ -75,6 +75,7 @@ form.addEventListener('submit',(event)=>{
     
     });
   
+
 
 
 
